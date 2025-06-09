@@ -1,0 +1,14 @@
+1, HNI Corporation, Bunk Bed, 134, $400.00
+2, HNI CorporationHaworth Inc., Twin Bed, 467, $600.00
+3, Achham furniture, Sleeper Sofa, 1083, $200.00
+4, Kimball International Inc., Corner sofa, 181, $350.00
+5, Kohler Co., Armchair, 135, $150.00
+6, Masco Corporation, Desk chair, 292, $100.00
+7, Gorkha, bed, 113, $675.00
+8, Itahari Furniture, CHair, 883, $65.00
+9, Khotange Inc, table, 952, $40.00
+10, Furni World, Cupboard, 106, $450.00
+11, Hare Krishna Furniture Store, Study Table, 11, $50.00
+12, adit Co, window, 32, $20.00
+14, Inc, dharane, 120, $30.00
+1, adas, sda, 3, $23.00
